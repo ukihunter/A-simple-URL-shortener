@@ -50,12 +50,4 @@ Refer to `requirements.txt` for the list of dependencies.
 
 ---
 
-### `requirements.txt`
-
-```
-customtkinter
-pyshorteners
-pyperclip
-CTkMessagebox
-```
 
