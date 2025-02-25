@@ -16,7 +16,7 @@ A simple URL shortener built with `customtkinter` for the GUI, supporting TinyUR
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/ukihunter/url-shortener.git
+   git clone https://github.com/ukihunter/A-simple-URL-shortener
    cd url-shortener
    ```
 
